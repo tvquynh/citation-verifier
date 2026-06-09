@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: Trinh
     given-names: Van-Quynh
+    orcid: "https://orcid.org/0009-0006-0514-6123"
     affiliation: Posts and Telecommunications Institute of Technology (PTIT)
 version: 1.0.0
 date-released: "2026-06-09"
