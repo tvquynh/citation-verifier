@@ -181,7 +181,7 @@ only matters when you pass `--s2`.
 ### How to request a key
 
 1. Go to the Semantic Scholar API page:
-   **https://www.semanticscholar.org/product/api**
+   **[https://www.semanticscholar.org/product/api](https://www.semanticscholar.org/product/api#api-key)**
 2. Find the **"Request an API Key"** form on that page (the `#api-key` section).
 3. Submit your details and a short description of your intended use.
 4. You will receive your **private key by email**. This is not always instant —
