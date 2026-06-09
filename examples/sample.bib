@@ -1,0 +1,35 @@
+% Sample .bib for trying out citation-verifier.
+%
+%   python verify_citations.py examples/sample.bib
+%
+% Expected verdicts:
+%   he2016resnet        -> VERIFIED      (resolves by DOI)
+%   vaswani2017attention-> VERIFIED      (no DOI; found by title search)
+%   wrongdoi_demo       -> DOI_MISMATCH  (real DOI, unrelated title)
+%   fabricated_demo     -> UNMATCHED     (title not found in any index)
+
+@inproceedings{he2016resnet,
+  title  = {Deep Residual Learning for Image Recognition},
+  author = {He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian},
+  year   = {2016},
+  doi    = {10.1109/CVPR.2016.90}
+}
+
+@inproceedings{vaswani2017attention,
+  title  = {Attention Is All You Need},
+  author = {Vaswani, Ashish and Shazeer, Noam and others},
+  year   = {2017}
+}
+
+@article{wrongdoi_demo,
+  title  = {A Title That Has Nothing To Do With This DOI},
+  author = {Doe, Jane},
+  year   = {2020},
+  doi    = {10.1109/CVPR.2016.90}
+}
+
+@article{fabricated_demo,
+  title  = {Quux Frobnicator Hyperconvergence in Nonexistent Distributed Systems},
+  author = {Nemo, Captain},
+  year   = {2031}
+}
