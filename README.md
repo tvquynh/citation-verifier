@@ -1,6 +1,6 @@
 # citation-verifier
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20602827.svg)](https://doi.org/10.5281/zenodo.20602827) ![license](https://img.shields.io/badge/license-MIT-blue) ![python](https://img.shields.io/badge/python-3.8%2B-blue) ![dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20602827-blue)](https://doi.org/10.5281/zenodo.20602827) ![license](https://img.shields.io/badge/license-MIT-blue) ![python](https://img.shields.io/badge/python-3.8%2B-blue) ![dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 
 A tiny, dependency-free tool that checks whether the references in a BibTeX
 (`.bib`) file **actually exist** — by cross-checking each one against public
