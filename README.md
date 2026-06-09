@@ -1,6 +1,6 @@
 # citation-verifier
 
-![license](https://img.shields.io/badge/license-MIT-blue) ![python](https://img.shields.io/badge/python-3.8%2B-blue) ![dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20602827.svg)](https://doi.org/10.5281/zenodo.20602827) ![license](https://img.shields.io/badge/license-MIT-blue) ![python](https://img.shields.io/badge/python-3.8%2B-blue) ![dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 
 A tiny, dependency-free tool that checks whether the references in a BibTeX
 (`.bib`) file **actually exist** — by cross-checking each one against public
@@ -255,7 +255,10 @@ Technology (PTIT).
 
 ## Citing
 
-If this tool is useful in your work, see [`CITATION.cff`](CITATION.cff) or use:
+If this tool is useful in your work, please cite it. See [`CITATION.cff`](CITATION.cff), or use:
 
 > Trinh, V.-Q. (2026). *citation-verifier* (Version 1.0.0) [Computer software].
-> https://github.com/tvquynh/citation-verifier
+> https://doi.org/10.5281/zenodo.20602827
+
+- **Concept DOI** (always resolves to the latest version): [10.5281/zenodo.20602827](https://doi.org/10.5281/zenodo.20602827)
+- **This version (1.0.0)**: [10.5281/zenodo.20602828](https://doi.org/10.5281/zenodo.20602828)

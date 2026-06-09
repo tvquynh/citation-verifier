@@ -9,6 +9,14 @@ authors:
 version: 1.0.0
 date-released: "2026-06-09"
 license: MIT
+doi: 10.5281/zenodo.20602827
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20602827
+    description: Concept DOI (all versions)
+  - type: doi
+    value: 10.5281/zenodo.20602828
+    description: DOI for version 1.0.0
 repository-code: "https://github.com/tvquynh/citation-verifier"
 keywords:
   - citation-verification
